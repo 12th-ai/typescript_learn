@@ -1,7 +1,7 @@
 
 
-function getUser(): void {
-return ;
+function getUser(): string {
+return 'hello world';
 
 
 }
